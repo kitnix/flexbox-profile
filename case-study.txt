@@ -1,0 +1,17 @@
+Title:
+	Flexbox
+
+Summary: Using a Boilerplate base, this project was set up to experiment with the flexbox property. 
+	
+Client:
+	Skillcrush Class Project
+
+Tools: 
+	Atom
+	Chrome Dev Tools
+
+Languages:
+	HTML
+	CSS
+	
+Using a Boilerplate base, this responsive site was set up to experiment with the flexbox property. I took the project a step further to change the expected squares into circles and added a photo of myself -- for funsies. 
